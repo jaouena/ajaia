@@ -2,101 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adel Jaouen (Ajaia) Data Scientist Freelance</title>
-    <link>https://hugo-profile.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Adel Jaouen (Ajaia) Data Scientist Freelance</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 10 Mar 2025 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos</title>
-      <link>https://hugo-profile.netlify.app/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;à-propos&#34;&gt;À propos&lt;/h2&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>https://hugo-profile.netlify.app/contact/</link>
+      <title>Conditions Générales de ventes</title>
+      <link>http://localhost:1313/cgv/</link>
       <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/contact/</guid>
+      <guid>http://localhost:1313/cgv/</guid>
+      <description>&lt;h2 id=&#34;conditions-générales-de-vente&#34;&gt;Conditions Générales de Vente&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-objet&#34;&gt;1. Objet&lt;/h3&gt;&#xA;&lt;p&gt;Les présentes Conditions Générales de Vente (CGV) s&amp;rsquo;appliquent à toutes les prestations de services fournies par Adel Jaouen EI / AJAIA, Data Scientist freelance, aux clients.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-description-des-services&#34;&gt;2. Description des Services&lt;/h3&gt;&#xA;&lt;p&gt;Les services proposés incluent :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conseil dans la mise en place de structures de données&lt;/li&gt;&#xA;&lt;li&gt;Conseil et réalisations de projets en lien avec l’intelligence artificielle et le machine-learning&lt;/li&gt;&#xA;&lt;li&gt;Analyse de données&lt;/li&gt;&#xA;&lt;li&gt;Développement de modèles prédictifs&lt;/li&gt;&#xA;&lt;li&gt;Développement d’API&lt;/li&gt;&#xA;&lt;li&gt;Mise en place de pipelines de récupération et traitement des données&lt;/li&gt;&#xA;&lt;li&gt;Développement d’applications web&lt;/li&gt;&#xA;&lt;li&gt;Conseil en data science&lt;/li&gt;&#xA;&lt;li&gt;Formation et cours en data science&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-devis-et-acceptation&#34;&gt;3. Devis et Acceptation&lt;/h3&gt;&#xA;&lt;p&gt;Toute prestation fait l&amp;rsquo;objet d&amp;rsquo;un devis préalablement accepté par le client. Le devis précise notamment la nature des services, le prix, les modalités de paiement, et le délai de réalisation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
     </item>
     <item>
       <title>Assurance et Mutuelle</title>
-      <link>https://hugo-profile.netlify.app/projects/assurance-mutuelle/</link>
+      <link>http://localhost:1313/projects/assurance-mutuelle/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/assurance-mutuelle/</guid>
+      <guid>http://localhost:1313/projects/assurance-mutuelle/</guid>
       <description>&lt;h3 id=&#34;amélioration-dun-moteur-de-recherche-elasticsearch&#34;&gt;Amélioration d&amp;rsquo;un moteur de recherche ElasticSearch&lt;/h3&gt;&#xA;&lt;p&gt;Amélioration d&amp;rsquo;un moteur de recherche ElasticSearch en intégrant des modèles de langage (Bert puis LLM).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack technique :&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;pandas&lt;/li&gt;&#xA;&lt;li&gt;transformers&lt;/li&gt;&#xA;&lt;li&gt;huggingface&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;OpenAI&lt;/li&gt;&#xA;&lt;li&gt;fine-tuning du modèle Bert&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Audit et Réglementation</title>
-      <link>https://hugo-profile.netlify.app/projects/audit-reglementation/</link>
+      <link>http://localhost:1313/projects/audit-reglementation/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/audit-reglementation/</guid>
+      <guid>http://localhost:1313/projects/audit-reglementation/</guid>
       <description>&lt;h3 id=&#34;construction-dun-rag-pour-laudit-de-normes-réglementaires&#34;&gt;Construction d’un RAG pour l&amp;rsquo;audit de normes réglementaires&lt;/h3&gt;&#xA;&lt;p&gt;Construction d’un RAG pour l&amp;rsquo;audit de normes réglementaires.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack technique :&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;CI/CD GitLab&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;docker-compose&lt;/li&gt;&#xA;&lt;li&gt;postgresql&lt;/li&gt;&#xA;&lt;li&gt;LLM&lt;/li&gt;&#xA;&lt;li&gt;OpenAI&lt;/li&gt;&#xA;&lt;li&gt;Mistral&lt;/li&gt;&#xA;&lt;li&gt;langchain&lt;/li&gt;&#xA;&lt;li&gt;ollama&lt;/li&gt;&#xA;&lt;li&gt;llama-cpp&lt;/li&gt;&#xA;&lt;li&gt;pypdf&lt;/li&gt;&#xA;&lt;li&gt;unstructured&lt;/li&gt;&#xA;&lt;li&gt;VectorDB&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Énergie</title>
-      <link>https://hugo-profile.netlify.app/projects/energie/</link>
+      <link>http://localhost:1313/projects/energie/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/energie/</guid>
+      <guid>http://localhost:1313/projects/energie/</guid>
       <description>&lt;h3 id=&#34;modèles-de-prédiction-des-consommations-dénergie&#34;&gt;Modèles de prédiction des consommations d&amp;rsquo;énergie&lt;/h3&gt;&#xA;&lt;p&gt;Implémentation de modèles de prédiction des consommations pour une application visant à réduire la consommation d&amp;rsquo;énergie.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack technique :&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;pandas&lt;/li&gt;&#xA;&lt;li&gt;scikit-learn&lt;/li&gt;&#xA;&lt;li&gt;scipy&lt;/li&gt;&#xA;&lt;li&gt;numpy&lt;/li&gt;&#xA;&lt;li&gt;django&lt;/li&gt;&#xA;&lt;li&gt;postgresql&lt;/li&gt;&#xA;&lt;li&gt;django-rest-framework&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;docker-compose&lt;/li&gt;&#xA;&lt;li&gt;Vuejs&lt;/li&gt;&#xA;&lt;li&gt;CI/CD gitlab&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Marketing et Réputation en Ligne</title>
-      <link>https://hugo-profile.netlify.app/projects/marketing-reputation/</link>
+      <link>http://localhost:1313/projects/marketing-reputation/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/marketing-reputation/</guid>
+      <guid>http://localhost:1313/projects/marketing-reputation/</guid>
       <description>&lt;h3 id=&#34;automatisation-de-la-réponse-aux-avis-en-ligne&#34;&gt;Automatisation de la réponse aux avis en ligne&lt;/h3&gt;&#xA;&lt;p&gt;Automatisation de la réponse aux avis en ligne (intégration LLMs) sur une application web.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack technique :&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;django&lt;/li&gt;&#xA;&lt;li&gt;django-rest-framework&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;docker-compose&lt;/li&gt;&#xA;&lt;li&gt;postgresql&lt;/li&gt;&#xA;&lt;li&gt;VueJs&lt;/li&gt;&#xA;&lt;li&gt;CI/CD GitLab&lt;/li&gt;&#xA;&lt;li&gt;Groq&lt;/li&gt;&#xA;&lt;li&gt;OpenAI&lt;/li&gt;&#xA;&lt;li&gt;Azure ML&lt;/li&gt;&#xA;&lt;li&gt;Mistral&lt;/li&gt;&#xA;&lt;li&gt;langchain&lt;/li&gt;&#xA;&lt;li&gt;ollama&lt;/li&gt;&#xA;&lt;li&gt;llama-cpp&lt;/li&gt;&#xA;&lt;li&gt;pypdf&lt;/li&gt;&#xA;&lt;li&gt;unstructured&lt;/li&gt;&#xA;&lt;li&gt;huggingface&lt;/li&gt;&#xA;&lt;li&gt;transformers&lt;/li&gt;&#xA;&lt;li&gt;VectorDB&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Santé animale</title>
-      <link>https://hugo-profile.netlify.app/projects/sante-animale/</link>
+      <link>http://localhost:1313/projects/sante-animale/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/sante-animale/</guid>
+      <guid>http://localhost:1313/projects/sante-animale/</guid>
       <description>&lt;h3 id=&#34;modèles-de-prédictions-pour-laide-au-diagnostic-vétérinaire&#34;&gt;Modèles de prédictions pour l&amp;rsquo;aide au diagnostic vétérinaire&lt;/h3&gt;&#xA;&lt;p&gt;Conception et mise en production de modèles de prédictions pour l&amp;rsquo;aide au diagnostic vétérinaire.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack technique :&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;pandas&lt;/li&gt;&#xA;&lt;li&gt;django&lt;/li&gt;&#xA;&lt;li&gt;django-rest-framework&lt;/li&gt;&#xA;&lt;li&gt;MLFlow&lt;/li&gt;&#xA;&lt;li&gt;CI/CD GitLab&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;docker-compose&lt;/li&gt;&#xA;&lt;li&gt;postgresql&lt;/li&gt;&#xA;&lt;li&gt;pyodide&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://hugo-profile.netlify.app/projects/agriculture-sylviculture/</link>
+      <link>http://localhost:1313/legacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/agriculture-sylviculture/</guid>
+      <guid>http://localhost:1313/legacy/</guid>
+      <description>&lt;h1 id=&#34;mentions-légales&#34;&gt;Mentions Légales&lt;/h1&gt;&#xA;&lt;h2 id=&#34;éditeur-du-site&#34;&gt;Éditeur du Site&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nom de l&amp;rsquo;entreprise :&lt;/strong&gt; EI Adel JAOUEN (Ajaia)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adresse :&lt;/strong&gt; 25 RUE LENEPVEU, 49100 Angers&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email :&lt;/strong&gt; &lt;a href=&#34;mailto:jaouenadel@protonmail.com&#34;&gt;jaouenadel@protonmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Téléphone :&lt;/strong&gt; 0620519671&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Directeur de la publication :&lt;/strong&gt; Adel Jaouen&lt;/p&gt;&#xA;&lt;h2 id=&#34;hébergement&#34;&gt;Hébergement&lt;/h2&gt;&#xA;&lt;p&gt;Ce site est hébergé par GitHub, Inc.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adresse :&lt;/strong&gt; 88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Site web :&lt;/strong&gt; &lt;a href=&#34;https://github.com&#34;&gt;github.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;propriété-intellectuelle&#34;&gt;Propriété Intellectuelle&lt;/h2&gt;&#xA;&lt;p&gt;Tous les contenus présents sur le site Ajaia, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société à l&amp;rsquo;exception des marques, logos ou contenus appartenant à d&amp;rsquo;autres sociétés partenaires ou auteurs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/agriculture-sylviculture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/agriculture-sylviculture/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://hugo-profile.netlify.app/projects/environnement-dechets/</link>
+      <link>http://localhost:1313/projects/environnement-dechets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/environnement-dechets/</guid>
+      <guid>http://localhost:1313/projects/environnement-dechets/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://hugo-profile.netlify.app/projects/formation-education/</link>
+      <link>http://localhost:1313/projects/formation-education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/formation-education/</guid>
+      <guid>http://localhost:1313/projects/formation-education/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://hugo-profile.netlify.app/projects/immobilier/</link>
+      <link>http://localhost:1313/projects/immobilier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/immobilier/</guid>
+      <guid>http://localhost:1313/projects/immobilier/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://hugo-profile.netlify.app/projects/logistique-retail/</link>
+      <link>http://localhost:1313/projects/logistique-retail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/logistique-retail/</guid>
+      <guid>http://localhost:1313/projects/logistique-retail/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://hugo-profile.netlify.app/projects/restauration/</link>
+      <link>http://localhost:1313/projects/restauration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/projects/restauration/</guid>
+      <guid>http://localhost:1313/projects/restauration/</guid>
       <description></description>
     </item>
   </channel>

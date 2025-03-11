@@ -178,8 +178,10 @@ Adel Jaouen (Ajaia) Data Scientist Freelance
             <a class="navbar-brand primary-font text-wrap" href="/">
                 
                 <img src="images/logo_rect_transparent.png" 
+                
                      width="200" height="150"
                      class="d-inline-block align-top">
+                     
                 
             </a>
 
@@ -232,13 +234,36 @@ Adel Jaouen (Ajaia) Data Scientist Freelance
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="/#contact"
                             aria-label="contact">
-                            Contactez-moi !
+                            Contact
                         </a>
                     </li>
                     
 
                     
+                        <li class="nav-item navbar-text d-none d-lg-block d-xl-block"><div class="nav-link nav-link-sep"></div></li>
+                        <div class="dropdown-divider"></div>
+                    
 
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/cgv" title="CGV">
+                            
+                            CGV
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/legacy" title="Mention légales">
+                            
+                            Mentions légales
+                        </a>
+                    </li>
                     
                     
 
@@ -889,7 +914,7 @@ Collaboration inter-équipes en méthode agile sur des projets full-stack.
 
 <section id="contact" class="py-5">
     <div class="container">
-        <h3 class="text-center">Contactez-moi !</h3>
+        <h3 class="text-center">Contact</h3>
         <div class="px-0 px-md-5 px-lg-5">
             <div class="row justify-content-center px-md-5">
                 <div class="col-md-8 py-3">
@@ -1000,13 +1025,15 @@ Vous pouvez aussi me joindre au 0620519671
 </div>
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (document.body.className.includes("dark")) {
-        document.body.classList.remove('dark');
-        localStorage.setItem("pref-theme", 'light');
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
     }
+
 </script>
-
-
 
 
 

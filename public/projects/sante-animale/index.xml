@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santé animale on Adel Jaouen (Ajaia) Data Scientist Freelance</title>
-    <link>https://hugo-profile.netlify.app/projects/sante-animale/</link>
+    <link>http://localhost:1313/projects/sante-animale/</link>
     <description>Recent content in Santé animale on Adel Jaouen (Ajaia) Data Scientist Freelance</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/projects/sante-animale/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/sante-animale/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

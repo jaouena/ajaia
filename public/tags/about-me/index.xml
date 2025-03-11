@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Adel Jaouen (Ajaia) Data Scientist Freelance</title>
-    <link>https://hugo-profile.netlify.app/tags/about-me/</link>
+    <link>http://localhost:1313/tags/about-me/</link>
     <description>Recent content in About Me on Adel Jaouen (Ajaia) Data Scientist Freelance</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 10 Mar 2025 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos</title>
-      <link>https://hugo-profile.netlify.app/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;à-propos&#34;&gt;À propos&lt;/h2&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://hugo-profile.netlify.app/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
     </item>
   </channel>

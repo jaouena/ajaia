@@ -23,8 +23,19 @@ markup:
       unsafe: true
 
 
-
-
+Menus:
+  main:
+    - identifier: legacy
+      name: Mentions légales
+      title: Mention légales
+      url: /legacy
+      weight: 10
+    - identifier: CGV
+      name: CGV
+      title: CGV
+      url: /cgv
+      weight: 10
+    
 params:
   title: "Adel Jaouen (Ajaia) Data Scientist Freelance"
   description: "Site web de la société Adel Jaouen EI (Ajaia) Data Scientist Freelance"
@@ -35,7 +46,7 @@ params:
 
   theme:
     disableThemeToggle: true
-    defaultTheme: "light" # dark
+    # defaultTheme: "light" # dark
     
   color:
     textColor: "#1E1E1E" # Noir-gris profond pour une excellente lisibilité
@@ -393,7 +404,7 @@ params:
 
   contact:
     enable: true
-    title: Contactez-moi !
+    title: Contact
     content: 'Ma boîte de réception est toujours ouverte. Que vous ayez une question ou que vous vouliez simplement dire bonjour, je ferai de mon mieux pour vous répondre ! 
       
       jaouenadel@protonmail.com
@@ -438,3 +449,25 @@ params:
     article: "2 Janv. 2006"
     articleList: "2 Janv. 2006"
     articleRecent: "2 Janv. 2006"
+
+  legal:
+    enable: true
+    title: "Mentions Légales"
+    content: |-
+      **Propriétaire du site :**
+      Adel Jaouen EI (Ajaia)
+      Adresse : 25 rue lenepveu, 49100 Angers
+      Téléphone : 0620519671
+      Email : jaouenadel@protonmail.com
+
+      **Hébergement :**
+      [Nom de l'hébergeur]
+      Adresse : [Adresse de l'hébergeur]
+      Téléphone : [Téléphone de l'hébergeur]
+      Site web : [Site web de l'hébergeur]
+
+      **Droits d'auteur :**
+      Tous les contenus présents sur ce site sont la propriété exclusive de Adel Jaouen EI (Ajaia), sauf mention contraire. Toute reproduction, distribution, modification, adaptation, retransmission ou publication de ces différents éléments est strictement interdite sans l'accord écrit de Adel Jaouen EI (Ajaia).
+
+      **Responsabilité :**
+      Adel Jaouen EI (Ajaia) ne pourra être tenu responsable des dommages directs et indirects causés au matériel de l'utilisateur, lors de l'accès au site internet, et résultant soit de l'utilisation d'un matériel ne répondant pas aux spécifications indiquées, soit de l'apparition d'un bug ou d'une incompatibilité.

@@ -172,8 +172,10 @@ Adel Jaouen (Ajaia) Data Scientist Freelance | Page non trouvée
             <a class="navbar-brand primary-font text-wrap" href="/">
                 
                 <img src="images/logo_rect_transparent.png" 
+                
                      width="200" height="150"
                      class="d-inline-block align-top">
+                     
                 
             </a>
 
@@ -226,13 +228,36 @@ Adel Jaouen (Ajaia) Data Scientist Freelance | Page non trouvée
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="/#contact"
                             aria-label="contact">
-                            Contactez-moi !
+                            Contact
                         </a>
                     </li>
                     
 
                     
+                        <li class="nav-item navbar-text d-none d-lg-block d-xl-block"><div class="nav-link nav-link-sep"></div></li>
+                        <div class="dropdown-divider"></div>
+                    
 
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/cgv" title="CGV">
+                            
+                            CGV
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/legacy" title="Mention légales">
+                            
+                            Mentions légales
+                        </a>
+                    </li>
                     
                     
 
@@ -319,13 +344,15 @@ Adel Jaouen (Ajaia) Data Scientist Freelance | Page non trouvée
 </div>
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (document.body.className.includes("dark")) {
-        document.body.classList.remove('dark');
-        localStorage.setItem("pref-theme", 'light');
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
     }
+
 </script>
-
-
 
 
 

@@ -2,57 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/tags/a-propos/</loc>
+    <loc>http://localhost:1313/tags/a-propos/</loc>
     <lastmod>2025-03-10T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-03-10T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/about-me/</loc>
+    <loc>http://localhost:1313/tags/about-me/</loc>
     <lastmod>2025-03-10T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-10T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/contact/</loc>
+    <loc>http://localhost:1313/tags/cgv/</loc>
     <lastmod>2025-03-10T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/contact/</loc>
+    <loc>http://localhost:1313/cgv/</loc>
     <lastmod>2025-03-10T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-03-10T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/assurance-mutuelle/</loc>
+    <loc>http://localhost:1313/tags/contact/</loc>
+    <lastmod>2025-03-10T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-10T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/assurance-mutuelle/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/audit-reglementation/</loc>
+    <loc>http://localhost:1313/projects/audit-reglementation/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/energie/</loc>
+    <loc>http://localhost:1313/projects/energie/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/marketing-reputation/</loc>
+    <loc>http://localhost:1313/projects/marketing-reputation/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/sante-animale/</loc>
+    <loc>http://localhost:1313/projects/sante-animale/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/agriculture-sylviculture/</loc>
+    <loc>http://localhost:1313/legacy/</loc>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/environnement-dechets/</loc>
+    <loc>http://localhost:1313/projects/agriculture-sylviculture/</loc>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/formation-education/</loc>
+    <loc>http://localhost:1313/projects/environnement-dechets/</loc>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/immobilier/</loc>
+    <loc>http://localhost:1313/projects/formation-education/</loc>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/logistique-retail/</loc>
+    <loc>http://localhost:1313/projects/immobilier/</loc>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/projects/restauration/</loc>
+    <loc>http://localhost:1313/projects/logistique-retail/</loc>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/projects/restauration/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

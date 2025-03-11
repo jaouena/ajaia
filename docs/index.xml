@@ -16,6 +16,13 @@
       <description>&lt;h2 id=&#34;à-propos&#34;&gt;À propos&lt;/h2&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Conditions Générales de ventes</title>
+      <link>https://hugo-profile.netlify.app/cgv/</link>
+      <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/cgv/</guid>
+      <description>&lt;h2 id=&#34;conditions-générales-de-vente&#34;&gt;Conditions Générales de Vente&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-objet&#34;&gt;1. Objet&lt;/h3&gt;&#xA;&lt;p&gt;Les présentes Conditions Générales de Vente (CGV) s&amp;rsquo;appliquent à toutes les prestations de services fournies par Adel Jaouen EI / AJAIA, Data Scientist freelance, aux clients.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-description-des-services&#34;&gt;2. Description des Services&lt;/h3&gt;&#xA;&lt;p&gt;Les services proposés incluent :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conseil dans la mise en place de structures de données&lt;/li&gt;&#xA;&lt;li&gt;Conseil et réalisations de projets en lien avec l’intelligence artificielle et le machine-learning&lt;/li&gt;&#xA;&lt;li&gt;Analyse de données&lt;/li&gt;&#xA;&lt;li&gt;Développement de modèles prédictifs&lt;/li&gt;&#xA;&lt;li&gt;Développement d’API&lt;/li&gt;&#xA;&lt;li&gt;Mise en place de pipelines de récupération et traitement des données&lt;/li&gt;&#xA;&lt;li&gt;Développement d’applications web&lt;/li&gt;&#xA;&lt;li&gt;Conseil en data science&lt;/li&gt;&#xA;&lt;li&gt;Formation et cours en data science&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-devis-et-acceptation&#34;&gt;3. Devis et Acceptation&lt;/h3&gt;&#xA;&lt;p&gt;Toute prestation fait l&amp;rsquo;objet d&amp;rsquo;un devis préalablement accepté par le client. Le devis précise notamment la nature des services, le prix, les modalités de paiement, et le délai de réalisation.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Contact</title>
       <link>https://hugo-profile.netlify.app/contact/</link>
       <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
@@ -56,6 +63,13 @@
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://hugo-profile.netlify.app/projects/sante-animale/</guid>
       <description>&lt;h3 id=&#34;modèles-de-prédictions-pour-laide-au-diagnostic-vétérinaire&#34;&gt;Modèles de prédictions pour l&amp;rsquo;aide au diagnostic vétérinaire&lt;/h3&gt;&#xA;&lt;p&gt;Conception et mise en production de modèles de prédictions pour l&amp;rsquo;aide au diagnostic vétérinaire.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack technique :&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;pandas&lt;/li&gt;&#xA;&lt;li&gt;django&lt;/li&gt;&#xA;&lt;li&gt;django-rest-framework&lt;/li&gt;&#xA;&lt;li&gt;MLFlow&lt;/li&gt;&#xA;&lt;li&gt;CI/CD GitLab&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;docker-compose&lt;/li&gt;&#xA;&lt;li&gt;postgresql&lt;/li&gt;&#xA;&lt;li&gt;pyodide&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hugo-profile.netlify.app/legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/legacy/</guid>
+      <description>&lt;h1 id=&#34;mentions-légales&#34;&gt;Mentions Légales&lt;/h1&gt;&#xA;&lt;h2 id=&#34;éditeur-du-site&#34;&gt;Éditeur du Site&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nom de l&amp;rsquo;entreprise :&lt;/strong&gt; EI Adel JAOUEN (Ajaia)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adresse :&lt;/strong&gt; 25 RUE LENEPVEU, 49100 Angers&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email :&lt;/strong&gt; &lt;a href=&#34;mailto:jaouenadel@protonmail.com&#34;&gt;jaouenadel@protonmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Téléphone :&lt;/strong&gt; 0620519671&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Directeur de la publication :&lt;/strong&gt; Adel Jaouen&lt;/p&gt;&#xA;&lt;h2 id=&#34;hébergement&#34;&gt;Hébergement&lt;/h2&gt;&#xA;&lt;p&gt;Ce site est hébergé par GitHub, Inc.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adresse :&lt;/strong&gt; 88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Site web :&lt;/strong&gt; &lt;a href=&#34;https://github.com&#34;&gt;github.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;propriété-intellectuelle&#34;&gt;Propriété Intellectuelle&lt;/h2&gt;&#xA;&lt;p&gt;Tous les contenus présents sur le site Ajaia, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société à l&amp;rsquo;exception des marques, logos ou contenus appartenant à d&amp;rsquo;autres sociétés partenaires ou auteurs.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
