@@ -35,7 +35,7 @@ params:
 
   theme:
     disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "light" # dark
     
   color:
     textColor: "#1E1E1E" # Noir-gris profond pour une excellente lisibilité
