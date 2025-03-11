@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Adel Jaouen (Ajaia) Data Scientist Freelance</title>
+    <link>https://hugo-profile.netlify.app/tags/</link>
+    <description>Recent content in Tags on Adel Jaouen (Ajaia) Data Scientist Freelance</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 10 Mar 2025 22:53:58 +0530</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Propos</title>
+      <link>https://hugo-profile.netlify.app/tags/a-propos/</link>
+      <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/a-propos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://hugo-profile.netlify.app/tags/about-me/</link>
+      <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/about-me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://hugo-profile.netlify.app/tags/contact/</link>
+      <pubDate>Mon, 10 Mar 2025 22:53:58 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/tags/contact/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
